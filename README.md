@@ -34,4 +34,4 @@ The dashboard was build using the following tools and technologies:
 
 6. Screenshots / Demos
 
-![Dashboard Preview].(https://github.com/Arpitabagdawat/Super-Sales-Dashboard/blob/main/Sales%20Dashboard.png).
+![Dashboard Preview].(https://github.com/Muskan1923/Sales-Dashboard/blob/main/Sales%20Dashboard.png)
